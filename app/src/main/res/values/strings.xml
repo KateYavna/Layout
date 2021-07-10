@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="administratingCenter"> Центр администрирования Microsoft 365 </string>
+    <string name="search"> Поиск </string>
+    <string name="health">Health </string>
+    <string name="center1">Центр сообщений</string>
+    <string name="center2">YW имеет непрочитанные сообщения</string>
+    <string name="center3">6</string>
+    <string name="service1">Работоспособность службы</string>
+    <string name="service2">Myfo имеют новые уведомления</string>
+    <string name="service3">3</string>
+    <string name="account1">Оповещение о выставлении счета</string>
+    <string name="account2">Yawha*.e без новых уведомлений</string>
+    <string name="links">Quick Links</string>
+    <string name="btAccount1">Выставление</string>
+    <string name="btAccount2">счетов</string>
+</resources>
